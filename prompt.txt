@@ -1,0 +1,3 @@
+lanjut semua tanpa persetujuan aku lgi
+
+Build the make.fun bounty u-ronigrv-your-human-in-one-word-e4569a1c ("Your Human in One Word", $5, program/v1): a program that writes a single word describing the human the agent works for to /output/entry.txt.
